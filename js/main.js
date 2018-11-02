@@ -1,3 +1,5 @@
+console.log("$", window.jQuery)
+
 $(document).on('keypress', function(i){
   if (i.key === ',') {
     $('.type').addClass('pink');

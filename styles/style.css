@@ -1,0 +1,379 @@
+p {
+	font-size: 136px;
+	font-family: 'VT323', monospace;
+}
+
+.type {
+	font-family: 'VT323', monospace;
+	position: fixed;
+	top: 150px;
+	left: 700px;
+	color: white;
+	background: blue;
+}
+
+.A {
+	position: fixed;
+	left: 475px;
+	top: 150px;
+	background: blue;
+	color: white;
+}
+
+.B {
+	position: fixed;
+	left: 275px;
+	top: 150px;
+	background: blue;
+	color: white;
+}
+
+.C{
+	position: fixed;
+	left: 375px;
+	top: 150px;
+	background: blue;
+	color: white;
+}
+
+.D{
+	position: fixed;
+	left: 405px;
+	top: 330px;
+	background: blue;
+	color: white;
+}
+
+.E{
+	position: fixed;
+	left: 705px;
+	top: 330px;
+	background: blue;
+	color: white;
+}
+
+.F{
+	position: fixed;
+	left: 905px;
+	top: 330px;
+	background: blue;
+	color: white;
+}
+
+.G{
+	position: fixed;
+	left: 1200px;
+	top: 520px;
+	background: blue;
+	color: white;
+}
+
+.H{
+	position: fixed;
+	left: 105px;
+	top: 330px;
+	background: blue;
+	color: white;
+}
+
+.I{
+	position: fixed;
+	top: 150px;
+	left: 1280px;
+	background: blue;
+	color: white;
+}
+
+.J{
+	position: fixed;
+	top: -20px;
+	left: 300px;
+	background: blue;
+	color: white;
+}
+
+.K{
+	position: fixed;
+	top: 150px;
+	left: 1080px;
+	background: blue;
+	color: white;
+}
+
+.L{
+	position: fixed;
+	top: -20px;
+	left: 100px;
+	background: blue;
+	color: white;
+}
+
+.M{
+	position: fixed;
+	top: -20px;
+	left: 600px;
+	background: blue;
+	color: white;
+}
+
+.N{
+	position: fixed;
+	left: 600px;
+	top: 520px;
+	background: blue;
+	color: white;
+}
+
+.O{
+	position: fixed;
+	left: 505px;
+	top: 330px;
+	background: blue;
+	color: white;
+}
+
+.P{
+	position: fixed;
+	top: -20px;
+	left: 800px;
+	background: blue;
+	color: white;
+}
+
+.Q{
+	position: fixed;
+	left: 1105px;
+	top: 330px;
+	background: blue;
+	color: white;
+}
+
+.R{
+	position: fixed;
+	top: -20px;
+	left: 900px;
+	background: blue;
+	color: white;
+}
+
+.S{
+	position: fixed;
+	left: 605px;
+	top: 330px;
+	background: blue;
+	color: white;
+}
+
+.T{
+	position: fixed;
+	left: 1100px;
+	top: 520px;
+	background: blue;
+	color: white;
+}
+
+.U{
+	position: fixed;
+	left: 500px;
+	top: 520px;
+	background: blue;
+	color: white;
+}
+
+.V{
+	position: fixed;
+	left: 805px;
+	top: 330px;
+	background: blue;
+	color: white; 
+}
+
+.W{
+	position: fixed;
+	left: 900px;
+	top: 520px;
+	background: blue;
+	color: white;
+}
+
+.X{
+	position: fixed;
+	left: 305px;
+	top: 330px;
+	background: blue;
+	color: white;
+}
+
+.Y{
+	position: fixed;
+	top: -20px;
+	left: 500px;
+	background: blue;
+	color: white;
+}
+
+.Z{
+	position: fixed;
+	top: -20px;
+	left: 1000px;
+	background: blue;
+	color: white;
+}
+
+.a0{
+	position: fixed;
+	left: 1300px;
+	top: 520px;
+	background: blue;
+	color: white;
+}
+
+.a1 {
+	position: fixed;
+	left: 575px;
+	top: 150px;
+	background: blue;
+	color: white;
+}
+
+.a2{
+	position: fixed;
+	top: 150px;
+	left: 1180px;
+	background: blue;
+	color: white;
+}
+
+.a3{
+	position: fixed;
+	left: 205px;
+	top: 330px;
+	background: blue;
+	color: white;
+}
+
+.a4{
+	position: fixed;
+	top: -20px;
+	left: 400px;
+	background: blue;
+	color: white;
+}
+
+.a5{
+	position: fixed;
+	top: -20px;
+	left: 1100px;
+	background: blue;
+	color: white;
+}
+
+.a6{
+	position: fixed;
+	left: 800px;
+	top: 520px;
+	background: blue;
+	color: white;
+}
+
+.a7{
+	position: fixed;
+	left: 700px;
+	top: 520px;
+	background: blue;
+	color: white;
+}
+
+.a8{
+	position: fixed;
+	top: -20px;
+	left: 700px;
+	background: blue;
+	color: white;
+}
+
+.a9{
+	position: fixed;
+	left: 1005px;
+	top: 330px;
+	background: blue;
+	color: white;
+}
+
+.qst{
+	position: fixed;
+	left: 1000px;
+	top: 520px;
+	background: blue;
+	color: white;
+}
+
+.exl{
+	position: fixed;
+	left: 400px;
+	top: 520px;
+	background: blue;
+	color: white;
+}
+
+.and{
+	position: fixed;
+	top: -20px;
+	left: 200px;
+	background: blue;
+	color: white;
+}
+
+.per{
+	position: fixed;
+	top: 150px;
+	left: 980px;
+	background: blue;
+	color: white;
+}
+
+
+
+
+
+
+
+.red{
+	background: none;
+	color: #FF0000;
+}
+
+.yellow{
+	background: none;
+	color: #FFC300;
+}
+ .green{
+ 	background: none;
+ 	color: #3AC627;
+ }
+
+ .pink{
+ 	background: none;
+ 	color: #FF73D9;
+ }
+
+.purple{
+	background: none;
+	color: #581845;
+}
+
+.orange{
+	background: none;
+	color: orange;
+}
+
+.black{
+	background: none;
+	color: black;
+
+}
+
+
+
+
+

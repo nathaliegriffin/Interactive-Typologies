@@ -1,6 +1,3 @@
-
-
-
 $(document).on('keypress', function(i){
   if (i.key === ',') {
     $('.type').addClass('pink');
@@ -337,10 +334,3 @@ $(document).on('keypress', function(i){
     $('.per').removeClass('orange');
   }
 });
-
-
-
-
-
-
-
